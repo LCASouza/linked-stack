@@ -1,4 +1,4 @@
-## Queue
+## Stack
 **Linked Stack**
 
 #### Language:
